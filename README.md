@@ -1,6 +1,6 @@
 ## Opa 👋
-
-- 🤓 Atualmente estudando Front-End
+- 🤓 Conhecimento avançado em Front-End
+- 🤓 Atualmente estudando Back-end
 - 💬 Meu número: 98444-6105
 
 
