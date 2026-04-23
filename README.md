@@ -1,5 +1,5 @@
 ## Opa 👋
-- 🤓 Conhecimento avançado em Front-End
+- 🤓 Conhecimento avançado em Vue
 - 🤓 Atualmente estudando Back-end
 - 💬 Meu número: 98444-6105
 
