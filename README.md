@@ -1,6 +1,6 @@
 ## Opa 👋
-- 🤓 Conhecimento avançado em Vue
-- 🤓 Atualmente estudando Back-end
+- 🤓 Conhecimento avançado em Vue e Laravel
+- 🤓 Desenvolvedor FullStack
 - 💬 Meu número: 42 98444-6105
 
 
